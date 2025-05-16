@@ -1,4 +1,4 @@
-# Evaluación final SQL – Proyecto Sakila (Módulo 2)
+# Evaluación final SQL – Módulo 2
 
 Este repositorio contiene las consultas SQL correspondientes a la evaluación final del Módulo 2 del bootcamp de Data Analytics.
 
