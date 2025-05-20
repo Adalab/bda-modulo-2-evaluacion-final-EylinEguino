@@ -19,4 +19,4 @@ El proyecto se basa en la base de datos Sakila, que simula una tienda de alquile
 3. Ejecuta cada consulta para comprobar su funcionamiento.
 
 
-- `ejercicio intermedio 2.sql`: contiene las respuestas a todos los ejercicios (del 1 al 23 + BONUS 24 y 
+- `ejercicio intermedio 2.sql`: contiene las respuestas a todos los ejercicios (del 1 al 23 + BONUS 24 y 25.
